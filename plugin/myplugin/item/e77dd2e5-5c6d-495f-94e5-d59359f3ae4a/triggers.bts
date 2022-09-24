@@ -1,0 +1,6 @@
+HAND_ITEM_CHANGED_UNHAND {
+	AddEntityBuff(buffTime = 100, cfg = "myplugin/63b1ab69-89a3-4640-804b-d97d755228bf", entity = $obj1)
+	ConsumeItem2(entity = $obj1, item = "myplugin/e77dd2e5-5c6d-495f-94e5-d59359f3ae4a", num = 1, reason = "")
+	AddEntityBuff(buffTime = 100, cfg = "myplugin/c969f15c-630c-47d4-9716-d952d0bf7c7c", entity = $obj1)
+	AddEntityVp(entity = $obj1, step = 50)
+}

@@ -1,0 +1,128 @@
+42e806f8a4f55e720a74b68383cde1f2 *asset/Actor/Blue Floating Ghost/g2034_robotSkin_ghost.actor
+a75f1ce297c546bee37f8352fe82446a *asset/Actor/Blue Ice Elemental Monster/Frost Elf.actor
+f0aebf3d32f470f3e6873b7f8276775c *asset/Actor/Blue Spiky Boar/g2021_ride_pig.actor
+67aa547034456790603412d8276f7222 *asset/Actor/Conical Canopy Dwarf Pine/Pine Tree1.actor
+1239be216e54da3e5bc57ae4b7a5700c *asset/Actor/Green Thick Bush/g2038_grassEffect.actor
+d681d260351bacbba876bc84e2b4d19e *asset/Actor/Purple Fly Ghost/Flying Ghost.actor
+41dd0091f7500886999cbb0562f03e7f *asset/Actor/Red-Eyed Blue Fluffy Monster/g2043_pet_31401.actor
+ca30d932a5f141f59812afbcafb6849c *asset/Actor/Silver Gray Rectangular Treasure Chest/g2037_treasurebox.actor
+ca30d932a5f141f59812afbcafb6849c *asset/Actor/Silver Gray Rectangular Treasure Chest_0/g2037_treasurebox.actor
+634222a4527d084f410a4c2c2df69d16 *asset/Actor/Small Elliptical Canopy Tree/Green Tree.actor
+f62f4ecd71c54540af76425bbd0f0877 *asset/Actor/Small Irregular Canopy Tree/Irregular Tree.actor
+4d94d9691e02ed62c877f5e2e572e9fd *asset/Actor/Tall Conical Canopy Pine Tree/Pine Tree2.actor
+abcf9b4df76fc98980e477080e7ddbee *asset/Actor/Yellow Fire Elemental Monster/Flame Elf.actor
+41e099f5ba8246f3640152a61bdfaf19 *asset/Actor/charactor/charactor_boy/character_boy.actor
+fa8a5ff3debf024bd3b1b09653426ee3 *asset/Actor/charactor/charactor_girl/character_girl.actor
+76c87c79929a0a0fa346c999967b514b *asset/Actor/charactor/firstPrvActor/firstPrvActor.actor
+8692a093deb9b7a59b8c16d5e1dc7ffe *asset/JumpButton.layout
+b054ac497ade7ae606a3b76413c73f38 *asset/Mesh/Blue Frost Sword/A Rare Ice Sword.actor
+be8d269d49e8b0e1cf014fc8a31197d6 *asset/Mesh/Blue Grimace Sword/Ghost Face Sword·Purple.actor
+392fa27626f1890957c769402dae1ce6 *asset/Mesh/Brown Canned Cola/g2040_zs_qishui_brown_1.actor
+3ba90f249fb3a3920bb9b0150024019d *asset/Mesh/Brown Extra Large Cola/g2040_zs_kafei_4.actor
+1f9ffd4534f10b947d70bc35b1652297 *asset/Mesh/Brown Large Cola/g2040_zs_kafei_3.actor
+fb53b46a1cea33daff50162621c07935 *asset/Mesh/Brown Small Cola/g2040_zs_kafei_1.actor
+29085a777a1cdbd4d01ceca624caea45 *asset/Mesh/Fuchsia Reaper Ninja Star/g2047_gun_12_01.actor
+9675b8000885fbf59b58116271c0d8c6 *asset/Mesh/Large Brown Canned Cola/g2040_zs_qishui_brown_2.actor
+2621fc6c5c9258c8e3813400beb37897 *asset/Mesh/Orange Crystal Pumpkin/g2040_zs_nangua.actor
+bf15631576fe25b07fbc3e2e81aa92a2 *asset/Mesh/Orange Large Burger/g2040_zs_hanbao_3.actor
+59bc4af40397fedde04e7bfd02a46fef *asset/Mesh/Orange Medium Burger/g2040_zs_hanbao_2.actor
+816266a2d709b4ecbda67837f97215a3 *asset/Mesh/Orange Small Burger/g2040_zs_hanbao_1.actor
+f97bea08fac114e18b2f427c2ba931d4 *asset/Mesh/Red Grimace Sword/Ghost Face Sword·Flames.actor
+8509cbb3f1234968d08549969617a86b *asset/Texture/Gui/imagesets/bottom_bar.imageset
+a0491c327ffd076c6671d77bef7f35be *asset/Texture/Gui/imagesets/cegui_main_page.imageset
+72c4b925a327b1f2d4dcc5c3ea336417 *asset/Texture/Gui/imagesets/cegui_new_gameUI.imageset
+6c08c99cf35a61c9a910bd2ec3f92176 *asset/Texture/Gui/imagesets/default_icon.imageset
+5050ca5a3a556d7f117d3886fc835751 *asset/Texture/Gui/imagesets/endless_main.imageset
+e7b7162255ce0609cf34f6baf04e203f *asset/Texture/Gui/imagesets/friend.imageset
+4c760c5968719d89963222cb4964f44d *asset/Texture/Gui/imagesets/main_ui.imageset
+ec17766d5a3c45906b448f1bc0a041da *asset/Texture/Gui/imagesets/new_gui_material.imageset
+84d013be80709439cb80c5d0e7da2895 *asset/Texture/Gui/imagesets/pole.imageset
+3778315d69cff5c52f6eaf334465cfa0 *asset/Texture/Gui/imagesets/role_Panel.imageset
+3302cc1d199d67f3d14f01a36eec7065 *asset/screen.layout
+88481083378e6f3ce3b16c1f715514b7 *asset/screen.lua
+d751713988987e9331980363e24189ce *coin.json
+8b4680f579056d53a7459bda38f8d752 *commodity.csv
+9156e43fc9f9bca25da72adadff85a27 *game_res_config.txt
+7de6fe70def3b44d46e11e236ad728d8 *gui/CMakeLists.txt
+d1fd7037f4941cd1b8cbfb94bb926990 *gui/events/JumpButton/setting.json
+d1fd7037f4941cd1b8cbfb94bb926990 *gui/events/layout_presets/actionControl/setting.json
+d1fd7037f4941cd1b8cbfb94bb926990 *gui/events/layout_presets/appMainRole/setting.json
+d1fd7037f4941cd1b8cbfb94bb926990 *gui/events/layout_presets/chat/setting.json
+d1fd7037f4941cd1b8cbfb94bb926990 *gui/events/layout_presets/playerinfo/setting.json
+d1fd7037f4941cd1b8cbfb94bb926990 *gui/events/layout_presets/shortcutBar/setting.json
+d1fd7037f4941cd1b8cbfb94bb926990 *gui/events/layout_presets/toolbar/setting.json
+ba734d911cdd5b8deae65f2f214af86e *gui/events/screen/3df2e52f-9086-4342-8dda-eb0d9fc4bd0f.bts
+456dee84cb544b527d10147b3b7eadfd *gui/events/screen/setting.json
+918c4fcbd46e4158fb9e4e617d96d740 *gui/layout_presets/actionControl.layout
+549fbefe0a43afd921b3301cfa9c424a *gui/layout_presets/appMainRole.layout
+fecc67498e7bfbcce1c13ab5981473e4 *gui/layout_presets/chat.layout
+bd399374745ebc48459c7372f3d341f6 *gui/layout_presets/playerinfo.layout
+f39481bbfce1513b1497d08a2c765281 *gui/layout_presets/shortcutBar.layout
+f3fa57d5fe592931373393784b5703fc *gui/layout_presets/toolbar.layout
+d751713988987e9331980363e24189ce *gui/schemes/user_font.json
+1fce38776494c2922bc6b81253774249 *id_mappings.json
+37294e6e324bed4b6f0fa91dd2dc6e38 *lang/lang.csv
+ae4d5b1e93b790afe07f20a306443c42 *lua/main.lua
+57ce6b02e3b2266d27fac9aca051d1ec *lua/script_client/main.lua
+30c164339dc95230e9a2fc3335b95945 *lua/script_common/main.lua
+0c8be7e8ebd620418e5b653a8628cbb4 *lua/script_server/main.lua
+6a64800523eb27c83d1e580b106a2132 *map/map001/meshPart.batch
+b4d6cdafedd7ef98c644396cb8a95f6b *map/map001/setting.json
+d48440b19a89cc2d2157251d37d54937 *plugin/myplugin/buff/1bb3adbb-ef12-4643-b30e-d4d26d1e5dbd/setting.json
+7cfa09f59287d7d20cd68afd15da6caa *plugin/myplugin/buff/2d75044b-552a-45c6-b727-eaa77005e004/setting.json
+dfa2cf0bce77f98333baefffdaa2f03c *plugin/myplugin/buff/63b1ab69-89a3-4640-804b-d97d755228bf/setting.json
+7b136166486cd43afcecaa56306d1685 *plugin/myplugin/buff/ba570213-5c99-49f2-8097-d73e0dba422c/setting.json
+fb21693c530da08327432daaa4085e66 *plugin/myplugin/buff/c969f15c-630c-47d4-9716-d952d0bf7c7c/setting.json
+88fe963fa81060ec7a4d0e4686fc6591 *plugin/myplugin/entity/20758efe-6563-4d97-9c4e-844aed265e4b/setting.json
+0cb7206f02e2870e30d273d7bc20ee82 *plugin/myplugin/entity/336b323a-540b-4f1e-8e05-110a9de66fa4/setting.json
+fce122726fd5e3574c7112430ec4292e *plugin/myplugin/entity/336b323a-540b-4f1e-8e05-110a9de66fa4/triggers.bts
+9e96d8da30fb2dde98654650e8f41fcb *plugin/myplugin/entity/4d67082e-5ff9-470d-8079-588b1614a4f7/setting.json
+1ff3de2d3d1287e5a7a52af26e2f9ff2 *plugin/myplugin/entity/504c6d80-ab29-4ba7-9fce-c9755dd0acb9/setting.json
+9802ca095204161fde2072d4bbb8fc7d *plugin/myplugin/entity/5994b588-c59a-4753-a851-2231fe306298/setting.json
+e844916ad841dbe84352124610325112 *plugin/myplugin/entity/68f7f1cc-bb00-4f7a-b6a8-3e6e95e5da36/setting.json
+99611a91c4a61f90a67c0efe6984eca3 *plugin/myplugin/entity/68f7f1cc-bb00-4f7a-b6a8-3e6e95e5da36/triggers.bts
+780098207a7d069f9c33029e61a0c896 *plugin/myplugin/entity/6f8982b1-ab61-45f1-b1a2-61fbfd446775/setting.json
+a67b01bff89e49ba0d939c74069dd15f *plugin/myplugin/entity/7c5d26e1-2f0b-47c0-8c78-16cdc716cadf/setting.json
+1a49b124240232fc942aa8e57d01c12b *plugin/myplugin/entity/817312a5-ba0a-4304-a937-8ffdf348268c/setting.json
+c6e562497dd978b225d443df973d9f1f *plugin/myplugin/entity/90921678-708b-41c3-a080-203bc7ab3ccd/setting.json
+881d412c36cbe2a2ca1534cc4f01b40b *plugin/myplugin/entity/a595f4c5-2b74-4d44-9670-226963963765/setting.json
+7508020a38f80aa28a36d0c007f6b841 *plugin/myplugin/entity/a595f4c5-2b74-4d44-9670-226963963765/triggers.bts
+57e7b1f209f34cfd4d2370427f583dce *plugin/myplugin/entity/c926cbd5-6635-4543-83ef-508253c365fe/setting.json
+fab1907e086223a34e62be5b57d3baf8 *plugin/myplugin/entity/c926cbd5-6635-4543-83ef-508253c365fe/triggers.bts
+28fde0f4a95c1c370570029e1054be0b *plugin/myplugin/entity/de14a48c-7841-4a99-994b-777463f28626/setting.json
+a981290dc3fa59a6420ff8bc9c0f1f0b *plugin/myplugin/entity/player1/setting.json
+f16dbc21fe2bcba35e3615ffe11bae0a *plugin/myplugin/entity/player1/triggers.bts
+408d75f3fba74589049c39164d7d6b00 *plugin/myplugin/frontsight/frontsight1/setting.json
+52e4ce7640c8fd8b069a71d45d21a3db *plugin/myplugin/item/1c09bc90-9e9b-454d-a46d-a4233304842e/setting.json
+20cbde7809f2bd9f2160e94e3bbb3716 *plugin/myplugin/item/1c09bc90-9e9b-454d-a46d-a4233304842e/triggers.bts
+ae4d0251eedf8e85f7e06319538fa7d4 *plugin/myplugin/item/45cc5483-fd18-4189-afda-a9c530a96120/setting.json
+f9f2ff6cccd57ab432e90f0359b609ea *plugin/myplugin/item/45cc5483-fd18-4189-afda-a9c530a96120/triggers.bts
+58f5f573670803359ec45aeb2b6d0197 *plugin/myplugin/item/d98aa1a3-3e0b-4175-878f-5468647d7165/setting.json
+6e970766a6123862ab2a9e39c690dbef *plugin/myplugin/item/e77dd2e5-5c6d-495f-94e5-d59359f3ae4a/setting.json
+ae52c681759990d0c4e6088eb22b878b *plugin/myplugin/item/e77dd2e5-5c6d-495f-94e5-d59359f3ae4a/triggers.bts
+e401ed5cbbf6b0a2ab9bd684baee0880 *plugin/myplugin/reward/37aded09-06d1-45c2-816c-f2cb5caef6cb/setting.json
+5ac4ab4d44d22d5c4a3da8322e111430 *plugin/myplugin/skill/0c1f15b5-7334-4e0b-a8e1-cc42115b736d/setting.json
+1807462b07e1784c6aa99c665e86fb92 *plugin/myplugin/skill/10d69805-6210-42ca-98cd-66ea7ac5defc/setting.json
+8c5bf17991660eb4e3fd289d8759f6a0 *plugin/myplugin/skill/37077811-0db4-4268-920c-8e04fdfe1a98/setting.json
+418cfb4d62a9b68314957506518991cc *plugin/myplugin/skill/38b315e3-609d-4ebc-b931-4b38c39fca80/setting.json
+f6097cfa8747a27be5ab5d54cd053f7d *plugin/myplugin/skill/5504959b-b2e6-44ab-b2b9-46809825dbbf/setting.json
+e5d5c7ea6ce609e1b0cabc2ebf0eaa4d *plugin/myplugin/skill/5850aee4-9e49-481e-8e5f-da713dd007d7/setting.json
+4c65c35e0167f480d41613ea08c3e398 *plugin/myplugin/skill/9ff3347b-3991-43b1-8bc3-8124880c9192/setting.json
+8c5bf17991660eb4e3fd289d8759f6a0 *plugin/myplugin/skill/c0f3978f-ef90-4966-adb5-f0433e0a19c9/setting.json
+477d7249e3aa71758336d85c87b8fbd7 *setting.json
+393e9a440b900b5690986ec2b0e57be5 *shop.csv
+d752acd79f189331fb84945699868695 *terrain/map001/blocks/lod0/-1.-1.-1.chunk
+8f09f0a0a0c1964739faacfb0deafbca *terrain/map001/blocks/lod0/-1.-1.0.chunk
+5ab7096c0d858ba1f3c8bb664223a646 *terrain/map001/blocks/lod0/-1.0.-1.chunk
+592b0e27eed0c52a7a824d2ee89d191b *terrain/map001/blocks/lod0/-1.0.0.chunk
+fc810472c602fab67adc0d517b669f0c *terrain/map001/blocks/lod0/0.-1.-1.chunk
+5862691f764d9f5a6a1a89093039e6da *terrain/map001/blocks/lod0/0.-1.0.chunk
+9d8f0ac4fad3476dbe28b4bfafb6b00e *terrain/map001/blocks/lod0/0.0.-1.chunk
+2c6a049a47edf07507c7e3898711b5ea *terrain/map001/blocks/lod0/0.0.0.chunk
+39a8c998691f391b67b83764b4f559f3 *terrain/map001/collision.xcs
+fcb3e86cba5af19ab77fb4498aa3da78 *terrain/map001/meta.vxbm
+86c6f0e87574ba5b7d473d8537c29f19 *terrain/map001/terrain.vert
+12f023f06e7ec12986f1ff0a2e26188e *terrain/map001/usedMaterial.vxmat
+953825fe414b07831441a6947547a4e8 *terrain/terrain_files.json
+cb87ee2db4bd246852a43647d2d3427f *user_data.json
+953825fe414b07831441a6947547a4e8 *terrain/terrain_files.json

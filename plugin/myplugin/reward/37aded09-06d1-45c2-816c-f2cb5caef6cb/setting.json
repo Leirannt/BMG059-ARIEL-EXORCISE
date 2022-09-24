@@ -1,0 +1,18 @@
+[
+  {
+    "countRange": {
+      "max": 1,
+      "min": 1
+    },
+    "name": "myplugin/1c09bc90-9e9b-454d-a46d-a4233304842e",
+    "type": "Item"
+  },
+  {
+    "countRange": {
+      "max": 1,
+      "min": 1
+    },
+    "name": "myplugin/e77dd2e5-5c6d-495f-94e5-d59359f3ae4a",
+    "type": "Item"
+  }
+]

@@ -1,0 +1,3 @@
+WIDGET_SHOWN {
+	SetShowImage(image = "gameres|asset/Screenshot-2022-09-10-154538.tga", instance = $rootInstance)
+}

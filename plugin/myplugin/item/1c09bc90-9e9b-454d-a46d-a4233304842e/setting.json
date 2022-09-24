@@ -1,0 +1,22 @@
+{
+  "canAbandon": true,
+  "candrop": true,
+  "canEquipPlural": true,
+  "canUse": true,
+  "dropSpeed": 0.2,
+  "handBuff": "myplugin/63b1ab69-89a3-4640-804b-d97d755228bf",
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Untitled_desigbn-removebg-preview.tga",
+  "itemname": "item_1c09bc90-9e9b-454d-a46d-a4233304842e",
+  "mesh": "asset/Mesh/Blue Frost Sword/crystal_sword.mesh",
+  "needSave": false,
+  "skill": [
+    "myplugin/38b315e3-609d-4ebc-b931-4b38c39fca80"
+  ],
+  "stack_count_max": 100,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

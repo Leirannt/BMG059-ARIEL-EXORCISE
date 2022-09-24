@@ -1,0 +1,8 @@
+ENTITY_DIE {
+	AddItem(cfg = "myplugin/e77dd2e5-5c6d-495f-94e5-d59359f3ae4a", count = 10, entity = $obj2, reason = "")
+	AddItem(cfg = "myplugin/d98aa1a3-3e0b-4175-878f-5468647d7165", count = 100, entity = $obj2, reason = "")
+}
+
+ENTITY_CLICK {
+	Damage(damage = 1, entity = $obj1)
+}

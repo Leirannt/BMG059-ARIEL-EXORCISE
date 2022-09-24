@@ -1,0 +1,22 @@
+{
+  "canAbandon": true,
+  "candrop": true,
+  "canEquipPlural": true,
+  "canUse": true,
+  "dropSpeed": 0.2,
+  "handBuff": "myplugin/2d75044b-552a-45c6-b727-eaa77005e004",
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Untitled_design__1_-removebg-preview.tga",
+  "itemname": "024546a6-f1d1-4cfd-bcda-37b8b7668a9e",
+  "mesh": "asset/Mesh/Blue Grimace Sword/g2030_weapon_7_3.mesh",
+  "needSave": false,
+  "skill": [
+    "myplugin/0c1f15b5-7334-4e0b-a8e1-cc42115b736d"
+  ],
+  "stack_count_max": 100,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

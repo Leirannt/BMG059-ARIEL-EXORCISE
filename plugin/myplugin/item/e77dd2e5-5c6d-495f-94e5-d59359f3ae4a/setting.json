@@ -1,0 +1,17 @@
+{
+  "canAbandon": true,
+  "candrop": true,
+  "canEquipPlural": true,
+  "canUse": true,
+  "dropSpeed": 0.2,
+  "icon": "@asset/198416.tga",
+  "itemname": "item_e77dd2e5-5c6d-495f-94e5-d59359f3ae4a",
+  "mesh": "asset/Mesh/Orange Small Burger/g2040_candy_hamburg.mesh",
+  "needSave": true,
+  "stack_count_max": 100,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

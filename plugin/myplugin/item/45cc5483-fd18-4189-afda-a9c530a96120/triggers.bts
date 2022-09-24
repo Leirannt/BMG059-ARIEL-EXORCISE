@@ -1,0 +1,3 @@
+HAND_ITEM_CHANGED_UNHAND {
+	RemoveBuffByFullName(buff = "myplugin/ba570213-5c99-49f2-8097-d73e0dba422c", entity = $obj1, toTeam = false)
+}

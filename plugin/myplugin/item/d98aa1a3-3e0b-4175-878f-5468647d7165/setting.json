@@ -1,0 +1,22 @@
+{
+  "canAbandon": true,
+  "candrop": true,
+  "canEquipPlural": true,
+  "canUse": true,
+  "dropSpeed": 0.2,
+  "handBuff": "myplugin/1bb3adbb-ef12-4643-b30e-d4d26d1e5dbd",
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Untitled_design-removebg-preview.tga",
+  "itemname": "item_d98aa1a3-3e0b-4175-878f-5468647d7165",
+  "mesh": "asset/Mesh/Red Grimace Sword/g2030_weapon_7_4.mesh",
+  "needSave": false,
+  "skill": [
+    "myplugin/5850aee4-9e49-481e-8e5f-da713dd007d7"
+  ],
+  "stack_count_max": 100,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}
